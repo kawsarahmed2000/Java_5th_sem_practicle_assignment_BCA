@@ -2,10 +2,10 @@
 Java_5th_sem_practicle_assignment_BCA
 
 <h3>Sl. No	Name of the Experiment</h3>
-1	WAP to find the sum of any number of integers entered as command line arguments
-2	WAP to find the factorial of a given number.
-3	WAP to make single dimensional array by defining the array dynamically
-4	WAP to use length in case of a two dimensional array
+1	WAP to find the sum of any number of integers entered as command line arguments\n
+2	WAP to find the factorial of a given number.\n
+3	WAP to make single dimensional array by defining the array dynamically\n
+4	WAP to use length in case of a two dimensional array\n
 5	WAP to decimal to binary number.
 6	WAP to check if number is prime or not, by taking the number as input from the keyboard
 7	WAP to find the sum of any number of integers interactively, i.e., entering every number from
